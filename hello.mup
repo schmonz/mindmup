@@ -1,5 +1,16 @@
 {
   "title": "hello",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "world",
+      "id": 2,
+      "attr": {
+        "style": {
+          "background": "#800080"
+        }
+      }
+    }
+  }
 }
