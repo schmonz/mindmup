@@ -1,5 +1,31 @@
 {
   "title": "Agile In 3 Minutes",
   "id": 1,
-  "formatVersion": 2
+  "formatVersion": 2,
+  "ideas": {
+    "1": {
+      "title": "Values",
+      "id": 2
+    },
+    "2": {
+      "title": "Actions",
+      "id": 4
+    },
+    "-1": {
+      "title": "Principles",
+      "id": 3
+    },
+    "-2": {
+      "title": "Mindset",
+      "id": 5,
+      "ideas": {}
+    },
+    "-12": {
+      "title": "Feelings",
+      "id": 7
+    }
+  },
+  "attr": {
+    "style": {}
+  }
 }
