@@ -24,7 +24,43 @@
         "4": {
           "title": "Responding to change over following a plan",
           "id": 19
+        },
+        "5": {
+          "title": "Simplicity",
+          "id": 40
+        },
+        "6": {
+          "title": "Communication",
+          "id": 42
+        },
+        "7": {
+          "title": "Feedback",
+          "id": 43
+        },
+        "8": {
+          "title": "Respect",
+          "id": 44
+        },
+        "9": {
+          "title": "Courage",
+          "id": 45
+        },
+        "10": {
+          "title": "Focus",
+          "id": 47
+        },
+        "11": {
+          "title": "Openness",
+          "id": 48
+        },
+        "12": {
+          "title": "Commitment",
+          "id": 49
         }
+      },
+      "attr": {
+        "style": {},
+        "collapsed": true
       }
     },
     "2": {
@@ -89,6 +125,10 @@
           "title": "Reflect, tune, adjust",
           "id": 37
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-2": {
@@ -104,6 +144,10 @@
           "title": "(Dweck)",
           "id": 12
         }
+      },
+      "attr": {
+        "collapsed": true,
+        "style": {}
       }
     },
     "-12": {
@@ -113,6 +157,14 @@
         "1": {
           "title": "Safety",
           "id": 22
+        },
+        "2": {
+          "title": "Courage",
+          "id": 38
+        },
+        "3": {
+          "title": "Empathy",
+          "id": 50
         }
       }
     }
