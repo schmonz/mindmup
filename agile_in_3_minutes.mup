@@ -1,5 +1,5 @@
 {
-  "title": "Agile In 3 Minutes",
+  "title": "Agile In 4 Minutes",
   "id": 1,
   "formatVersion": 2,
   "ideas": {
@@ -96,7 +96,7 @@
       "id": 5,
       "ideas": {
         "1": {
-          "title": "I can learn and improve",
+          "title": "Non-fixed: through effort, I can learn and improve",
           "id": 8,
           "ideas": {}
         },
